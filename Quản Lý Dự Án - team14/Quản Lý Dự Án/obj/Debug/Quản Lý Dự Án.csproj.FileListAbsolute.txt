@@ -1,0 +1,16 @@
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\bin\Debug\Quản Lý Dự Án.exe.config
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\bin\Debug\Quản Lý Dự Án.exe
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\bin\Debug\Quản Lý Dự Án.pdb
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\Quản Lý Dự Án.csprojAssemblyReference.cache
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\Quản_Lý_Dự_Án.Properties.Resources.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\Quản Lý Dự Án.csproj.GenerateResource.cache
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\Quản Lý Dự Án.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\Quản Lý Dự Án.exe
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\Quản Lý Dự Án.pdb
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\Quản_Lý_Dự_Án.Views.formDangNhap.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\Quản_Lý_Dự_Án.formDuAn.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\Quản_Lý_Dự_Án.Views.formMoDau.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\Quản_Lý_Dự_Án.Views.formCongViec.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\Quản_Lý_Dự_Án.Views.formChiPhi.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\Quản_Lý_Dự_Án.Views.formCongViecDangThucHien.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\Quản_Lý_Dự_Án.Views.formNhanVien.resources

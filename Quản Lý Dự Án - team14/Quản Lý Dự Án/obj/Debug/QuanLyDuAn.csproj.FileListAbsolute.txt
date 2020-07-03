@@ -1,0 +1,384 @@
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.formDuAn.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+C:\Users\sdkan\Desktop\Quản Lý Dự Án\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 2\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+E:\LTWIN\Quản Lý Dự Án 3\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+C:\Users\sdkan\Desktop\new\Quản Lý Dự Án 3.1 Hậu mới làm nè\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+E:\LTWIN\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+C:\Users\sdkan\Desktop\hau\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+E:\LTWIN\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+C:\Users\Admin\Desktop\beta\4.1\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+E:\LTWIN\Quản Lý Dự Án 4.2\Quản Lý Dự Án 4.0\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3.1\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+C:\Users\Admin\Desktop\beta\5\Quản Lý Dự Án 3\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+C:\Users\sdkan\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+C:\Users\Admin\Desktop\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+E:\LTWIN\Quản Lý Dự Án 8 hải\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 6\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+C:\Users\Admin\Desktop\25 6\Quản Lý Dự Án 9\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.exe
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\bin\Debug\QuanLyDuAn.pdb
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\bin\Debug\EntityFramework.dll
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\bin\Debug\EntityFramework.xml
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csprojAssemblyReference.cache
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formChiPhi.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViec.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formCongViecDangThucHien.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDangNhap.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formDuAn.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMDIParent.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formMoDau.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhanVien.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.Views.formNhomCongViec.resources
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.exe
+C:\Users\tadeo\OneDrive\Máy tính\winform\Quản Lý Dự Án 9.1\Quản Lý Dự Án\obj\Debug\QuanLyDuAn.pdb

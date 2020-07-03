@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLyDuAnModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CongViec">
+    <Key>
+      <PropertyRef Name="MaCongViec" />
+    </Key>
+    <Property Name="MaCongViec" Type="String" MaxLength="200" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TenCongViec" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="NoiDungCongViec" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="ListNhomPhuTrach" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="ChiPhi" Type="Int32" />
+    <Property Name="DuKienHoanThanh" Type="DateTime" Precision="0" />
+    <Property Name="NgayBatDau" Type="DateTime" Precision="0" />
+    <Property Name="TienDo" Type="Int32" />
+    <Property Name="NgayHoanThanh" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Nhom" Relationship="Self.FK__CongViec__ListNh__1BFD2C07" FromRole="CongViec" ToRole="Nhom" />
+    <NavigationProperty Name="DuAns" Relationship="Self.FK__DuAn__CongViecDu__1ED998B2" FromRole="CongViec" ToRole="DuAn" />
+  </EntityType>
+  <EntityType Name="CongViecNhanVien">
+    <Key>
+      <PropertyRef Name="MaCongViecNhanVien" />
+      <PropertyRef Name="MaNhanVienPhuTrach" />
+    </Key>
+    <Property Name="MaCongViecNhanVien" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MaNhanVienPhuTrach" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TenCongViec" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="MoTa" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="TaiLieu" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="LuongCongViec" Type="Int32" />
+    <Property Name="DuKienHoanThanh" Type="DateTime" Precision="0" />
+    <Property Name="NgayBatDau" Type="DateTime" Precision="0" />
+    <Property Name="TienDo" Type="Boolean" Nullable="false" />
+    <Property Name="NgayHoanThanh" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="NhanVien" Relationship="Self.FK__CongViecN__MaNha__1DE57479" FromRole="CongViecNhanVien" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="ChiPhi">
+    <Key>
+      <PropertyRef Name="MaCongViecChiTieu" />
+    </Key>
+    <Property Name="MaCongViecChiTieu" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="CongViecChiTieu" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="ThucHien" Type="DateTime" Precision="0" />
+    <Property Name="ChiPhiCongViec" Type="Int32" />
+  </EntityType>
+  <EntityType Name="DuAn">
+    <Key>
+      <PropertyRef Name="MaDuAn" />
+    </Key>
+    <Property Name="MaDuAn" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TenDuAn" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="MucTieuDuAn" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="ChiPhiDuAn" Type="Int32" />
+    <Property Name="CongViecDuAn" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="NhomPhuTrach" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="DuKienHoanThanh" Type="DateTime" Precision="0" />
+    <Property Name="NgayBatDau" Type="DateTime" Precision="0" />
+    <Property Name="TienDo" Type="Int32" />
+    <Property Name="NgayHoanThanh" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="CongViec" Relationship="Self.FK__DuAn__CongViecDu__1ED998B2" FromRole="DuAn" ToRole="CongViec" />
+    <NavigationProperty Name="Nhom" Relationship="Self.FK__DuAn__NhomPhuTra__1CF15040" FromRole="DuAn" ToRole="Nhom" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="MaNhanVien" />
+    </Key>
+    <Property Name="MaNhanVien" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="HoTen" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="0" />
+    <Property Name="SoDienThoai" Type="String" MaxLength="11" FixedLength="true" Unicode="false" />
+    <Property Name="DiaChi" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="ChucVu" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="Luong" Type="Int32" />
+    <Property Name="Nhom" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="MatKhau" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="CongViecNhanViens" Relationship="Self.FK__CongViecN__MaNha__1DE57479" FromRole="NhanVien" ToRole="CongViecNhanVien" />
+    <NavigationProperty Name="Nhom1" Relationship="Self.FK__NhanVien__Nhom__1B0907CE" FromRole="NhanVien" ToRole="Nhom" />
+    <NavigationProperty Name="Nhoms" Relationship="Self.FK__Nhom__NhomTruong__1A14E395" FromRole="NhanVien" ToRole="Nhom" />
+  </EntityType>
+  <EntityType Name="Nhom">
+    <Key>
+      <PropertyRef Name="MaNhom" />
+    </Key>
+    <Property Name="MaNhom" Type="String" MaxLength="200" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TenNhom" Type="String" MaxLength="200" FixedLength="true" Unicode="false" />
+    <Property Name="NhomTruong" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="CongViecs" Relationship="Self.FK__CongViec__ListNh__1BFD2C07" FromRole="Nhom" ToRole="CongViec" />
+    <NavigationProperty Name="DuAns" Relationship="Self.FK__DuAn__NhomPhuTra__1CF15040" FromRole="Nhom" ToRole="DuAn" />
+    <NavigationProperty Name="NhanViens" Relationship="Self.FK__NhanVien__Nhom__1B0907CE" FromRole="Nhom" ToRole="NhanVien" />
+    <NavigationProperty Name="NhanVien" Relationship="Self.FK__Nhom__NhomTruong__1A14E395" FromRole="Nhom" ToRole="NhanVien" />
+  </EntityType>
+  <Association Name="FK__CongViec__ListNh__1BFD2C07">
+    <End Role="Nhom" Type="Self.Nhom" Multiplicity="0..1" />
+    <End Role="CongViec" Type="Self.CongViec" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Nhom">
+        <PropertyRef Name="MaNhom" />
+      </Principal>
+      <Dependent Role="CongViec">
+        <PropertyRef Name="ListNhomPhuTrach" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DuAn__CongViecDu__1ED998B2">
+    <End Role="CongViec" Type="Self.CongViec" Multiplicity="0..1" />
+    <End Role="DuAn" Type="Self.DuAn" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CongViec">
+        <PropertyRef Name="MaCongViec" />
+      </Principal>
+      <Dependent Role="DuAn">
+        <PropertyRef Name="CongViecDuAn" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CongViecN__MaNha__1DE57479">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="1" />
+    <End Role="CongViecNhanVien" Type="Self.CongViecNhanVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNhanVien" />
+      </Principal>
+      <Dependent Role="CongViecNhanVien">
+        <PropertyRef Name="MaNhanVienPhuTrach" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DuAn__NhomPhuTra__1CF15040">
+    <End Role="Nhom" Type="Self.Nhom" Multiplicity="0..1" />
+    <End Role="DuAn" Type="Self.DuAn" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Nhom">
+        <PropertyRef Name="MaNhom" />
+      </Principal>
+      <Dependent Role="DuAn">
+        <PropertyRef Name="NhomPhuTrach" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NhanVien__Nhom__1B0907CE">
+    <End Role="Nhom" Type="Self.Nhom" Multiplicity="0..1" />
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Nhom">
+        <PropertyRef Name="MaNhom" />
+      </Principal>
+      <Dependent Role="NhanVien">
+        <PropertyRef Name="Nhom" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Nhom__NhomTruong__1A14E395">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="0..1" />
+    <End Role="Nhom" Type="Self.Nhom" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNhanVien" />
+      </Principal>
+      <Dependent Role="Nhom">
+        <PropertyRef Name="NhomTruong" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QuanLyDuAnEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CongViecs" EntityType="Self.CongViec" />
+    <EntitySet Name="CongViecNhanViens" EntityType="Self.CongViecNhanVien" />
+    <EntitySet Name="ChiPhis" EntityType="Self.ChiPhi" />
+    <EntitySet Name="DuAns" EntityType="Self.DuAn" />
+    <EntitySet Name="NhanViens" EntityType="Self.NhanVien" />
+    <EntitySet Name="Nhoms" EntityType="Self.Nhom" />
+    <AssociationSet Name="FK__CongViec__ListNh__1BFD2C07" Association="Self.FK__CongViec__ListNh__1BFD2C07">
+      <End Role="Nhom" EntitySet="Nhoms" />
+      <End Role="CongViec" EntitySet="CongViecs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DuAn__CongViecDu__1ED998B2" Association="Self.FK__DuAn__CongViecDu__1ED998B2">
+      <End Role="CongViec" EntitySet="CongViecs" />
+      <End Role="DuAn" EntitySet="DuAns" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CongViecN__MaNha__1DE57479" Association="Self.FK__CongViecN__MaNha__1DE57479">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="CongViecNhanVien" EntitySet="CongViecNhanViens" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DuAn__NhomPhuTra__1CF15040" Association="Self.FK__DuAn__NhomPhuTra__1CF15040">
+      <End Role="Nhom" EntitySet="Nhoms" />
+      <End Role="DuAn" EntitySet="DuAns" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NhanVien__Nhom__1B0907CE" Association="Self.FK__NhanVien__Nhom__1B0907CE">
+      <End Role="Nhom" EntitySet="Nhoms" />
+      <End Role="NhanVien" EntitySet="NhanViens" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Nhom__NhomTruong__1A14E395" Association="Self.FK__Nhom__NhomTruong__1A14E395">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="Nhom" EntitySet="Nhoms" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

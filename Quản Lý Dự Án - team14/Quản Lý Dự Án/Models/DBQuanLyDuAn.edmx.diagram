@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="232c073da17b46778939e671ad0ec740" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanLyDuAnModel.CongViec" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyDuAnModel.CongViecNhanVien" Width="1.5" PointX="5.25" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyDuAnModel.ChiPhi" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyDuAnModel.DuAn" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyDuAnModel.NhanVien" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyDuAnModel.Nhom" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="QuanLyDuAnModel.FK__CongViec__ListNh__1BFD2C07" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyDuAnModel.FK__DuAn__CongViecDu__1ED998B2" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyDuAnModel.FK__CongViecN__MaNha__1DE57479" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyDuAnModel.FK__DuAn__NhomPhuTra__1CF15040" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyDuAnModel.FK__NhanVien__Nhom__1B0907CE" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyDuAnModel.FK__Nhom__NhomTruong__1A14E395" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
